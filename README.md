@@ -3,8 +3,10 @@
 ## About
 This program generates a 3D wireframe visualization of a map. The map is represented by a text file consisting of a grid of points, each assigned a specific height value. The program uses MiniLibX, an interface designed for the X-Window system.
 
-![Screenshot 1](doc/fdf_1.png)
-![Screenshot 2](doc/fdf_2.png)
+![Screenshot 2](doc/fdf_3.png)
+![Screenshot 2](doc/fdf_4.png)
+<!--![Screenshot 1](doc/fdf_1.png)-->
+<!--![Screenshot 2](doc/fdf_2.png)-->
 
 <!--
 ## Getting started
